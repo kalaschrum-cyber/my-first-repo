@@ -3,6 +3,6 @@
 project description
 
 list of features
-feature one
-feature two
-feature three
+-feature one
+-feature two
+-feature three
